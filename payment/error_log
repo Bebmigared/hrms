@@ -1,0 +1,67 @@
+[06-Mar-2020 07:10:05 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 08:41:49 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 08:41:51 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 08:42:23 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 08:42:25 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 09:42:25 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 08:46:29 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 09:46:29 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 08:56:05 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 09:56:05 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 08:56:09 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 09:56:09 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 08:56:29 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 09:56:29 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 08:56:31 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 09:56:31 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:32:53 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:32:53 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:53:43 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:53:43 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:53:46 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:53:46 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:53:51 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:53:51 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:54:20 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:54:20 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:54:24 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:54:24 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:54:28 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:54:28 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:55:59 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:55:59 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:56:01 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:56:01 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:56:04 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:56:04 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:56:20 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:56:20 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:56:22 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:56:22 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:57:23 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:57:23 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:57:26 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:57:26 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 11:58:30 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:58:30 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 12:00:15 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 13:00:15 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 12:01:34 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:23:59 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:24:07 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:24:51 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 12:24:53 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 13:24:53 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 13:24:53 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 12:26:56 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 13:26:57 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 13:26:57 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 12:29:30 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 13:29:30 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 13:29:30 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 14:10:14 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 14:10:17 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 14:10:41 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 14:10:44 UTC] PHP Warning:  Module 'ffmpeg' already loaded in Unknown on line 0
+[06-Mar-2020 15:10:44 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
+[06-Mar-2020 15:10:44 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/hrcoreng/public_html/Corepay/confirm.php:1) in /home/hrcoreng/public_html/Corepay/confirm.php on line 2
